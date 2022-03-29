@@ -12,12 +12,12 @@ module.exports = {
     plugins: [],
     themeConfig: {
         lastUpdated:'更新时间',
-        logo: '/logo.png',
+        logo: '/img/logo.png',
         // 添加导航栏
         nav: require("./nav"),
         // 为以下路由添加左侧边栏
         sidebar: require("./sidebar"),
-        sidebarDepth: 2,//左侧导航显示的层级
+        sidebarDepth: 4,//左侧导航显示的层级
     },
     plugins: [
         [
