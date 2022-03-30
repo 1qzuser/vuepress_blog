@@ -22,6 +22,8 @@ yarn build
 
 cd docd/.vuepress/dist
 
+git checkout dev
+
 git add .
 
 git commit -m '生成打包文件'
