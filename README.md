@@ -15,8 +15,11 @@ clone git https://gitee.com/ffbk/vuepress-blog.git
 yarn init
 // 启动 本地打开 http://localhost:8086
 yarn dev
-// 打包=>./ROOT
+// 打包
 yarn build
+
+// 推送脚本
+yarn deploy
 
 ```
 
