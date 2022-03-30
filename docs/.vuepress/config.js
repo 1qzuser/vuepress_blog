@@ -9,7 +9,6 @@ module.exports = {
     ['link', { name: 'author', content: '程序员峰峰' }],
     ['link', { rel: 'stylesheet', href: '/css/style.css' }],
     ['script', { charset: 'utf-8', src: '/js/style.js' }],
-    ["link", { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" }],
   ],
     base: '/',   // 设置站点根路径
     port: 8086,
@@ -33,15 +32,6 @@ module.exports = {
             }
           }
         ],
-        [
-            '@vuepress/pwa', {
-                serviceWorker: true,
-                updatePopup: {
-                message: "发现新的内容可用",
-                buttonText: "刷新"
-                }
-            }
-        ],
         ['@vuepress/back-to-top'],
         ["vuepress-plugin-nuggets-style-copy", {
           copyText: "复制代码",
@@ -49,14 +39,6 @@ module.exports = {
               content: "恭喜这位小可爱，复制成功啦！"
           }
         }],
-        [
-          'cursor-effects',
-          {
-             size: 2, // 粒子大小，默认：2 
-             shape: ['star' | 'circle'], // 粒子的形状, 默认: 'star' 
-             zIndex: 999999999, // 画布的z-index属性, 默认: 999999999 
-          },
-       ],
         ["vuepress-plugin-cat"],
       ],
 }
