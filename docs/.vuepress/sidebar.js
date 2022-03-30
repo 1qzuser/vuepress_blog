@@ -2,7 +2,11 @@ module.exports = {
     '/guide/': [
         {
             title: '懵逼指南',
-            collapsable: true
+            collapsable: false,
+            children: [
+                { title: '一、前端学习', path: '/guide/end' },
+                { title: '二、后端学习', path: '/guide/back' },
+            ]
         }
     ],
     '/baodian/': [

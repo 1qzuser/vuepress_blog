@@ -1,5 +1,9 @@
 module.exports = [
-        { text: '👀 懵逼指南', link: '/guide/' },
+        { text: '👀 懵逼指南', link: '/guide/',
+        items: [
+            { text: '前端学习', link: '/guide/end/' },
+            { text: '后端学习', link: '/guide/back/' },
+        ]},
         { text: '👻 面试宝典',link:'/baodian/',
             items: [
                 { text: '初级开发篇', link: '/baodian/zero/' },
