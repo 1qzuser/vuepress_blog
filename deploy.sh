@@ -8,7 +8,7 @@ yarn build
 
 # 添加到仓库 
 git add .
-git commit -m 'deploy'
+git commit -m '修改了说明文件'
 
 # 发布到 gitee 仓库
 
