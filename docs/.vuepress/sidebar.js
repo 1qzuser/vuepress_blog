@@ -19,6 +19,16 @@ module.exports = {
             ]
         }
     ],
+    '/life/': [
+        {
+            title: '记录生活',
+            collapsable: true,
+            children: [
+                { title: '学习', path: '/life/study' },
+                { title: '生活', path: '/life/lifes' },
+            ]
+        }
+    ],
     '/tool/': [
         {
             title: '工具箱',
@@ -29,4 +39,5 @@ module.exports = {
             ]
         }
     ]
+    
 }

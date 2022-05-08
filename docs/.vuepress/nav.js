@@ -10,7 +10,12 @@ module.exports = [
                 { text: '中高进阶篇', link: '/baodian/high/' },
             ]
         },
-        { text: '👾 记录生活', link: '/life/'},
+        { text: '👾 记录生活', link: '/life/',
+            items: [
+                { text: '学习', link: '/life/study/' },
+                { text: '生活', link: '/life/lifes/' },
+            ]
+        },
         { text: '🧰 工具箱',link:'/tool/',
             items: [
                 { text: '峰峰软件', link: '/tool/software/' },
