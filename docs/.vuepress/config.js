@@ -5,7 +5,7 @@ module.exports = {
     description: '程序员峰峰，分享优质的前后端知识，总结日常学习的笔记!',
     head: [ 
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { name: 'keywords', content: '程序员峰峰,峰峰博客,vuepress' }],
+    ['link', { name: 'keywords', content: '程序员峰峰,峰峰博客,sbitx.top,峰峰' }],
     ['link', { name: 'author', content: '程序员峰峰' }],
     ['link', { rel: 'stylesheet', href: '/css/style.css' }],
     ['script', { charset: 'utf-8', src: '/js/style.js' }],

@@ -8,7 +8,7 @@ yarn build
 
 # 添加到仓库 
 git add .
-git commit -m '修改了说明文件'
+git commit -m '添加记录生活'
 
 # 发布到 gitee 仓库
 
