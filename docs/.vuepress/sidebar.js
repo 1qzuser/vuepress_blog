@@ -4,8 +4,8 @@ module.exports = {
             title: '懵逼指南',
             collapsable: false,
             children: [
-                { title: '一、前端学习', path: '/guide/end' },
-                { title: '二、后端学习', path: '/guide/back' },
+                { title: '前端学习', path: '/guide/end' },
+                { title: '后端学习', path: '/guide/back' },
             ]
         }
     ],
@@ -14,8 +14,10 @@ module.exports = {
             title: '面试宝典',
             collapsable: true,
             children: [
-                { title: '一、初级开发篇', path: '/baodian/zero' },
-                { title: '二、中高进阶篇', path: '/baodian/high' },
+                { title: 'html', path: '/baodian/html' },
+                { title: 'css', path: '/baodian/css' },
+                { title: 'javascript', path: '/baodian/javascript' },
+                { title: 'vue', path: '/baodian/vue' },
             ]
         }
     ],
@@ -34,8 +36,8 @@ module.exports = {
             title: '工具箱',
             collapsable: true,
             children: [
-                { title: '一、峰峰软件', path: '/tool/software' },
-                { title: '二、峰峰作业', path: '/tool/homework' },
+                { title: '峰峰软件', path: '/tool/software' },
+                { title: '峰峰作业', path: '/tool/homework' },
             ]
         }
     ]
