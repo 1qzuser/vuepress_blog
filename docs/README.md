@@ -23,3 +23,10 @@ footer: Copyright © 2020-2022 备案号：鄂ICP备20003004号-4
 同时本着方便同学们、与同学们共同进步的初心, 将本人本人笔记分享给大家. 其中会有本人学习心得体会笔记 or 经由本人学习过滤后仍觉得不错的知识点或者软件分享, 且会很频繁地进行笔记的更新与勘误( 学习不断更新不止:dog: )
 
 :::
+
+## 特别鸣谢
+1. [<u>vuepress</u>](https://www.vuepress.cn/) vuepress官方文档
+2. [<u>欧阳克</u>](http://www.ouyangke.com/) PHP中文网讲师
+3. [<u>腾讯云</u>](https://cloud.tencent.com/) 腾讯云提供服务器支持
+4. [<u>GitHub</u>](https://github.com/) GitHub提供代码存储
+5. [<u>七牛云</u>](https://portal.qiniu.com/) 七牛云提供图片存储

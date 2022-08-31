@@ -59,8 +59,16 @@ module.exports = [
     ],
   },
   {
+    text: "面试宝典",
+    items: [
+      { text: "css", link: "/baodian/css" },
+      { text: "html", link: "/baodian/html/" },
+      { text: "javascript", link: "/baodian/javascript/" },
+      { text: "vue", link: "/baodian/vue/" },
+    ],
+  },
+  {
     text: "记录生活",
-    link: "/life/",
     items: [
       { text: "学习", link: "/life/study/" },
       { text: "生活", link: "/life/lifes/" },
@@ -68,7 +76,6 @@ module.exports = [
   },
   {
     text: "工具箱",
-    link: "/tool/",
     items: [
       { text: "峰峰软件", link: "/tool/software/" },
       { text: "峰峰作业", link: "/tool/homework/" },
