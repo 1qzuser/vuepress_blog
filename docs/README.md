@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/logo.png
 heroText: 程序员峰峰
-tagline: 分享优质资源，成就美好未来
+tagline: 分享优质资源，成就美好未来！！
 actionText: 开始学习吧
 actionLink: /guide/
 features:
