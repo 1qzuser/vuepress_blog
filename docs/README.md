@@ -11,7 +11,7 @@ features:
 - title: 提升兴趣
   details: 兴趣是最好的老师，分享是成功的开始。
 - title: 内容丰富
-  details: 文档以实战为主，摒弃掉啰嗦无用内容，内容精炼。
+  details: 摒弃掉啰嗦无用内容，内容精炼。
 footer: Copyright © 2020-2022 备案号：鄂ICP备20003004号-4
 ---
 :::tip
