@@ -2,7 +2,7 @@ const moment = require('moment');
 
 module.exports = {
     title: '程序员峰峰',// 设置网站标题
-    description: '程序员峰峰，分享优质的前后端知识，总结日常学习的笔记!',
+    description: '程序员峰峰，峰峰博客，分享优质的前后端知识，总结日常学习的笔记!',
     head: [ 
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { name: 'keywords', content: '程序员峰峰,峰峰博客,sbitx.top,峰峰' }],
