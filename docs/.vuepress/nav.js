@@ -61,17 +61,22 @@ module.exports = [
   {
     text: "面试宝典",
     items: [
-      { text: "css", link: "/baodian/css" },
-      { text: "html", link: "/baodian/html/" },
-      { text: "javascript", link: "/baodian/javascript/" },
-      { text: "vue", link: "/baodian/vue/" },
-    ],
-  },
-  {
-    text: "记录生活",
-    items: [
-      { text: "学习", link: "/life/study/" },
-      { text: "生活", link: "/life/lifes/" },
+      {
+        text: "前端",
+        items: [
+            { text: "css", link: "/baodian/front/css" },
+            { text: "html", link: "/baodian/front/html/" },
+            { text: "javascript", link: "/baodian/front/javascript/" },
+            { text: "vue", link: "/baodian/front/vue/" },
+        ],
+      },
+      {
+        text: "后端",
+        items: [
+          { text: "php", link: "/baodian/back/php/" },
+          { text: "test2-2", link: "/frontend/test2-2/" },
+        ],
+      }
     ],
   },
   {
