@@ -10,16 +10,24 @@ module.exports = {
         }
     ],
     '/baodian/': [
+        // {
+        //     title: '面试宝典11123',
+        //     collapsable: true,
+        //     children: [
+        //         { text: "前端", link: "/css" },
+        //         { text: "html", link: "/baodian/front/html/" },
+        //         { text: "javascript", link: "/baodian/front/javascript/" },
+        //         { text: "vue", link: "/baodian/front/vue/" },
+        //     ]
+        // }
         {
-            title: '面试宝典',
+            title: '分组2 后端',
             collapsable: true,
             children: [
-                { title: 'html', path: '/baodian/html' },
-                { title: 'css', path: '/baodian/css' },
-                { title: 'javascript', path: '/baodian/javascript' },
-                { title: 'vue', path: '/baodian/vue' },
+              '/baodian/front/html/',
             ]
-        }
+          }
+    
     ],
     '/life/': [
         {

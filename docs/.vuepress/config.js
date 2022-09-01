@@ -19,7 +19,7 @@ module.exports = {
         nav: require("./nav"),
         // 为以下路由添加左侧边栏
         sidebar: require("./sidebar"),
-        sidebarDepth: 4,//左侧导航显示的层级
+        sidebarDepth: 2,//左侧导航显示的层级
     },
     plugins: [
         [
