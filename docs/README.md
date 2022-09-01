@@ -12,7 +12,6 @@ features:
   details: 兴趣是最好的老师，分享是成功的开始。
 - title: 内容丰富
   details: 摒弃掉啰嗦无用内容，内容精炼。
-footer: Copyright © 2020-2022 备案号：鄂ICP备20003004号-4
 ---
 :::tip
 
@@ -30,3 +29,8 @@ footer: Copyright © 2020-2022 备案号：鄂ICP备20003004号-4
 3. [<u>腾讯云</u>](https://cloud.tencent.com/) 腾讯云提供服务器支持
 4. [<u>GitHub</u>](https://github.com/) GitHub提供代码存储
 5. [<u>七牛云</u>](https://portal.qiniu.com/) 七牛云提供图片存储
+
+
+:::slot footer
+Copyright © 2020-2022 | [鄂ICP备20003004号-4](http://beian.miit.gov.cn/)
+:::
