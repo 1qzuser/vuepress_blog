@@ -25,5 +25,13 @@ module.exports = {
                 { title: 'java', path: 'back/java' },
             ]
         },
-    ]
+    ],
+    '/tool/': [
+        {
+            title: '工具箱',
+            children: [
+                { title: '峰峰软件', path: 'software' },
+            ]
+        }
+    ],
 }
