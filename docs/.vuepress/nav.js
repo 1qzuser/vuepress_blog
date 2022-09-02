@@ -5,6 +5,7 @@ module.exports = [
       {
         text: "理论知识",
         items: [
+          { text: "npm", link: "/front/npm/" },
           { text: "Nodejs", link: "/frontend/test1-1/" },
           { text: "yarn", link: "/frontend/test1-2/" },
         ],
