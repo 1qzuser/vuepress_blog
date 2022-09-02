@@ -1,9 +1,10 @@
 module.exports = {
     '/front/': [
         {
-            title: '前端',
+            title: '前端工程化',
             children: [
                 { title: 'npm', path: 'npm' },
+                { title: 'vite', path: 'vite' },
             ]
         }
     ],
