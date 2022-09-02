@@ -83,7 +83,6 @@ module.exports = [
     text: "工具箱",
     items: [
       { text: "峰峰软件", link: "/tool/software/" },
-      { text: "峰峰作业", link: "/tool/homework/" },
       { text: "峰峰图床", link: "https://img.sbitx.top" },
     ],
   },

@@ -4,7 +4,7 @@ home: true
 heroText: 程序员峰峰
 tagline: 分享优质资源，成就美好未来
 actionText: 开始学习吧
-actionLink: /guide/
+actionLink: /tool/software/
 features:
 - title: 持续分享
   details: 随着技术的提升，分享的内容也在不断增加。
