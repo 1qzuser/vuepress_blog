@@ -1,14 +1,12 @@
 module.exports = {
-    // '/baodian/front/': [
-    //     {
-    //         title: '懵逼指南',
-    //         collapsable: true,
-    //         children: [
-    //             { title: '前端学习', path: '/baodian/front/css' },
-    //             { title: '后端学习', path: '/guide/back' },
-    //         ]
-    //     }
-    // ],
+    '/front/': [
+        {
+            title: '前端',
+            children: [
+                { title: 'npm', path: 'npm' },
+            ]
+        }
+    ],
     '/baodian/': [
         {
             title: '前端面试',
