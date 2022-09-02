@@ -23,6 +23,7 @@ module.exports = {
             children: [
                 { title: 'php', path: 'back/php' },
                 { title: 'java', path: 'back/java' },
+                { title: 'python', path: 'back/python' },
             ]
         },
     ],

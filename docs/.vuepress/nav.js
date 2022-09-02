@@ -74,7 +74,8 @@ module.exports = [
         text: "后端",
         items: [
           { text: "php", link: "/baodian/back/php/" },
-          { text: "test2-2", link: "/frontend/test2-2/" },
+          { text: "java", link: "/baodian/back/java/" },
+          { text: "python", link: "/baodian/back/python/" },
         ],
       }
     ],
