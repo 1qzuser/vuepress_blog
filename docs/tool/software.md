@@ -35,6 +35,7 @@
 - [IntelliJ IDEA](https://www.ghxi.com/idea.html) 2021.2.3 便携增强版
 - [Typora](https://coisini.lanzouf.com/iNGMF03og7cd) Typora 1.0.2( 石皮版) – Markdown编辑器，可以联系我获取正版授权码
 - [Navicat Premium 15](https://www.bilibili.com/read/cv9424390/) 石皮文件说明
+- [chrome](https://www.lanzoui.com/b00z8efsb) chrome浏览器增加便携版
 
 
 
