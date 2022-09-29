@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/logo.png
 heroText: 程序员峰峰
-tagline: 分享优质资源，成就美好未来
+tagline: 学习并分享PHP、Linux、MySQL、小程序和前端技术等web知识。
 actionText: 开始学习吧
 actionLink: /tool/software/
 features:
@@ -13,7 +13,7 @@ features:
 - title: 内容丰富
   details: 摒弃掉啰嗦无用内容，内容精炼。
 ---
-:::tip
+::: tip
 
 这是 [<u>@ffbk</u>](https://gitee.com/ffbk) 的学习笔记与各种学习资料笔记整合, 有些部分引用已经记不清了(因为记笔记的初衷是为了方便自己查阅) :dash:
 
@@ -23,7 +23,7 @@ features:
 
 :::
 
-## 特别鸣谢
+## 友情链接
 1. [<u>vuepress</u>](https://www.vuepress.cn/) vuepress官方文档
 2. [<u>欧阳克</u>](http://www.ouyangke.com/) PHP中文网讲师
 3. [<u>腾讯云</u>](https://cloud.tencent.com/) 腾讯云提供服务器支持

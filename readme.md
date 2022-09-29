@@ -1,3 +1,5 @@
+
+
 ## 使用方法
 
 ```vue
@@ -9,11 +11,6 @@ yarn install
 yarn dev
 // 打包
 yarn build
-
-// 打包之后的路径为 docs\.vuepress\dist
-
-// 推送脚本
-yarn deploy
 
 ```
 
