@@ -1,27 +1,63 @@
 ---
 home: false
 icon: home
-title: 简介
+title: 本站简介
 
-footer: 本站所有文章，均系原创，禁止抄袭。
+footer: 一名成长中的全栈工程师！
 ---
 
-## 站点简介
 
-本站为 yicode 生态官方文档手册中心，所有 yicode 生态的 20 余个开源项目使用文档，都可以在此查阅。
+Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢，奈何我的英语水平太差了...
 
-## 作者简介
+我是程序员峰峰，一个还在上大三的小菜鸟，立志要成为一名全栈工程师（秃头🤔）
 
-作者==陈随易==，目前为自由职业程序员。自 19 年开始尝试开源，至今 4 年有余。本站所有开源项目（包括本站点文档），皆为==陈随易==本人所创造和维护。
+目前正在准备考研，面对这个越来越卷的时代，“躺平”貌似不是我的风格，“更卷”好像也卷不过别人
 
-开源项目皆可免费商用（具体看协议以及项目说明而定），部分开源项目会提供付费增强版本。
+但是呢！未来几年，我依然将坚持自己的梦想，当然也会在 GitHub 这个大家庭里继续贡献自己的代码，同时也为了能学到更多🤖...
 
-开源不易，让编程世界更加美好。
+一直记得一句话：坚持别人坚持不了的坚持，方能成就别人无法成就的成就！加油🤗
 
-作者微信：c91374286
+想要了解更多关于我的信息，[点击即可到达我的博客](https://www.sbitx.top)
 
-## 开源简介
+当然你也可以通过以下方式找到我...
 
-所有开源项目的缘起，皆为解决作者自己遇到的项目或者编程问题。然后，希望可以帮助其他遇到类似问题的小伙伴。
+- [知乎](https://www.zhihu.com/people/ffboke)
 
-为了避免纠纷和麻烦，所有开源项目暂不接受代码贡献，仅欢迎大家加群或作者微信，反馈 BUG，改进，问题等，作者将会在第一时间处理（除非一时半会不好处理）。
+- [bilibili 峰峰吃芒果](https://space.bilibili.com/400286213)
+
+- [csdn](https://blog.csdn.net/fengfengboke)
+
+- 微信公众号：程序员峰峰
+
+- 当前已经有 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) 个小伙伴访问我的GitHub啦🚁
+
+## ✍CSDN and bilibili
+
+![](https://stats.justsong.cn/api/csdn?id=fengfengboke&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=400286213&theme=dark)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ffboke/ffboke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffboke&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ffboke/ffboke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ffboke's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ffboke/vuepress_blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=vuepress_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ffboke/Upgraded">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=Upgraded&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
