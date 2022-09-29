@@ -1,0 +1,17 @@
+h2{
+    font-size: 1.5rem !important;
+}
+/* h2:before{
+    content: "👻";
+    margin-right: 6px;
+    color: #ff6d6d;
+    font-size: 20px;
+    font-weight: 600;
+} */
+
+.page{
+    padding-left: 1rem !important;
+}
+
+
+
