@@ -3,4 +3,6 @@
 .temp
 node_modules
 *.log
+.temp
+docs/.vuepress/dist
 
