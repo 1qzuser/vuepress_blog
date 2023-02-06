@@ -12,7 +12,7 @@ module.exports = [
       {
         text: "框架",
         items: [
-          { text: "test2-1", link: "/frontend/test2-1/" },
+          { text: "test2-1", link: "/back/java/" },
           { text: "test2-2", link: "/frontend/test2-2/" },
         ],
       },
